@@ -1,6 +1,13 @@
 ### Hi there 👋
-
+이대근
 =====
+## AI
+## 백엔드
+## 플러터
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+
+
 
 <!--
 **Leedaegeun03/Leedaegeun03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
